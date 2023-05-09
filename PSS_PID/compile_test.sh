@@ -1,1 +1,0 @@
-g++ -o test test.cpp siso/siso.cpp pid/pid.cpp arx/arx.cpp
